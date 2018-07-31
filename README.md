@@ -1,4 +1,4 @@
-# Cake example repository
+# Cake example repository  1
 
 This repository is used as an minimal example of using the [Cake build system](https://cakebuild.net)
 
